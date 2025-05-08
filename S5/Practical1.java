@@ -27,7 +27,7 @@ class Document{
 		Document d2=new Document();
 		System.out.println("Created a Document Object d2");
 		d2.name="My Second Document";
-		System.out.println("Name of the Document d2 is "+d.name);
+		System.out.println("Name of the Document d2 is "+d2.name);
 		
 		
 	}
